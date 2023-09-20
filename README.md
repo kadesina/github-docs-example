@@ -12,6 +12,7 @@
 
 - [Github Flavored MarkDown Emoji](https://gist.github.com/rxaviers/7360908)
 
+- [Github table](https://github.github.com/gfm/#tables-extension-)
 ## Second Header 
 
 ```bash
@@ -56,3 +57,6 @@ done
 - [ ] Finish Step 2
 - [ ] Finish Step 3
 
+| Name | ShortCode |
+| --- | --- |
+| baz | bim |
